@@ -1,7 +1,7 @@
-name: Brandon Amos
-url: http://bamos.github.io
+name: Leuteris Mitilineos
+url: http://std145287.github.io
 destination: ./_site
-twitter: brandondamos
+twitter: leuterismit
 lsi: false
 port: 4000
 markdown: kramdown
