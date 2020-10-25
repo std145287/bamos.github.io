@@ -1,9 +1,9 @@
 {
-    "name": "bamos.github.io",
+    "name": "std145287.github.io",
     "version": "0.0.0",
-    "homepage": "https://github.com/bamos/bamos.github.io",
+    "homepage": "https://github.com/std145287/145287.github.io",
     "authors": [
-        "Brandon Amos <bamos@cs.cmu.edu>"
+        "Leuteris Mitilineos <std145287@ac.eap.gr>"
     ],
     "license": "Apache",
     "ignore": [
